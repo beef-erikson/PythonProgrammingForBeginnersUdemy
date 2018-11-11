@@ -4,3 +4,6 @@ Notes and project files from <a href="https://www.udemy.com/python-tutorial-for-
 # Introduction to PyCharm
 - <a href="https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/tree/master/PyCharm_Intro/hello_world.py">Hello World</a>
 - <a href="https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/tree/master/PyCharm_Intro/multiplication_table.py">Multiplication Table</a>
+
+# Basic Data Types and Conditionals
+- <a href="https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Numeric_Data_Types_and_Conditionals/types.py">Data type examples</a>
