@@ -1,6 +1,6 @@
 # List of stuff I didn't already know
 
-Easy String Formatting
-- name = Beef
-- print(f"This is {name}")
+<h4> Easy String Formatting</h4>
+name = Beef
+<br>print(f"This is {name}")
 

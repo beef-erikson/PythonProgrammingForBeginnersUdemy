@@ -1,4 +1,4 @@
-"""Demo of how Python handles types
+"""Demo of how Python handles types.
 """
 
 number = 5
