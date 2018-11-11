@@ -10,3 +10,6 @@ print(type(value))          # float
 print(type(is_triggered))   # bool
 print(type("wheee"))        # str
 print(type(6/2))            # float
+print(number//value)        # 2.0
+print(int(value))           # 2
+print(float(number))        # 5.0
