@@ -1,4 +1,4 @@
-"""Creates a definition for a multiplication table.
+"""Function for a multiplication table.
 """
 
 
