@@ -12,4 +12,5 @@
 - [Basic menu with user input](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Numeric_Data_Types_and_Conditionals/menu.py)
 
 ## Text in Python
-- [String methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_methods.py)
+- [Common string methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_methods.py)
+- [String module examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_module.py)
