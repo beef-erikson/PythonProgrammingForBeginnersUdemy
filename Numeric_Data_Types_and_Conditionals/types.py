@@ -13,3 +13,8 @@ print(type(6/2))            # float
 print(number//value)        # 2.0
 print(int(value))           # 2
 print(float(number))        # 5.0
+print(int(True))            # 1
+print(int(False))           # 0
+print(bool(6))              # True
+print(bool(-6))             # True
+print(bool(0))              # False
