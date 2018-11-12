@@ -10,3 +10,6 @@
 - [Simple interest calculator](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Numeric_Data_Types_and_Conditionals/simple_interest.py)
 - [Conditionals example](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Numeric_Data_Types_and_Conditionals/conditionals_example.py)
 - [Basic menu with user input](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Numeric_Data_Types_and_Conditionals/menu.py)
+
+## Text in Python
+- [String methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_methods.py)
