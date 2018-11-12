@@ -1,5 +1,5 @@
 # Udemy's Python Programming for Beginners Course
-<h5>Notes and project files from taking <a href="htps://www.udemy.com/python-tutorial-for-beginners">this course</a>.</h5>
+<h4>Notes and project files from taking <a href="https://www.udemy.com/python-tutorial-for-beginners">this course</a>.</h4>
 
 ## Introduction to PyCharm
 - [Hello world](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/tree/master/PyCharm_Intro/hello_world.py)
