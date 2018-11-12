@@ -7,7 +7,7 @@
 print()
 print('----------')
 print('Gathers two numbers and performs a mathematical operation on them.')
-print("----------")
+print('----------')
 print()
 
 # Gets user input
@@ -35,8 +35,8 @@ elif user_selection == '2':
 elif user_selection == '3':
     # divide
     print(f"Result is: {first_number / second_number}")
-    # multiply
 elif user_selection == '4':
+    # multiply
     print(f"Result is: {first_number * second_number}")
 else:
     print("Not a valid response. Run again.")
