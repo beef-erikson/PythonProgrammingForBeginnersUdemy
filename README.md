@@ -17,3 +17,4 @@
 
 ## Loops
 - [For loop examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/for_loops.py)
+- [While loop examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/while_loops.py)

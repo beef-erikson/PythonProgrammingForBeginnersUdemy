@@ -48,7 +48,7 @@ def sum_of_divisors(number: int) -> int:
     return the_sum
 
 
-def print_number_triangle(number: int) -> str:
+def print_number_triangle(number: int) -> None:
     """Prints a line of 1 - number, number times in a triangle pattern.
     """
     number_line = ''
