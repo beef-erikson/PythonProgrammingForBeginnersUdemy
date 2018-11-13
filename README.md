@@ -14,3 +14,6 @@
 ## Text in Python
 - [Common string methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_methods.py)
 - [String module examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Text_In_Python/string_module.py)
+
+## Loops
+- [For loop examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/for_loops.py)

@@ -1,4 +1,4 @@
-"""Examples of using common string methods
+"""Examples of using common string methods.
 """
 
 lowercase = 'hello world'
