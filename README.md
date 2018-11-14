@@ -30,3 +30,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [MotorBike class and objects](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike.py)
 - [Book class and objects](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Book.py)
 - [MotorBike class with constructor](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike_constructor.py)
+- [Book class with constructor](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Book_constructor.py)
