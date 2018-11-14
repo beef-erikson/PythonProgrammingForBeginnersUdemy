@@ -26,4 +26,5 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Break and Continue examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/break_and_continue.py)
 
 ## Introduction to Object Oriented Programming
-- [First class and object - Country class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Country.py)
+- [First class and objects - Country class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Country.py)
+- [MotorBike class and objects](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike.py)
