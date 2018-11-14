@@ -11,7 +11,7 @@ class MotorBike:
 honda = MotorBike()
 bmw = MotorBike()
 
-# Set speed
+# Set speed field to each object
 honda.speed = 50
 bmw.speed = 80
 
