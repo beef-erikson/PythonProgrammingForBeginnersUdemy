@@ -1,7 +1,7 @@
 # Udemy's Python Programming for Beginners Course
-<h4>Notes and project files from taking <a href="https://www.udemy.com/python-tutorial-for-beginners">this course</a>.</h4>
-- [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
-- [Python Styling (PEP-8)](https://www.python.org/dev/peps/pep-0008/)
+Notes and project files from taking [this course](https://www.udemy.com/python-tutorial-for-beginners)
+- [The zen of Python](https://www.python.org/dev/peps/pep-0020/)
+- [Python styling (PEP-8)](https://www.python.org/dev/peps/pep-0008/)
 
 ## Introduction to PyCharm
 - [Hello world](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/tree/master/PyCharm_Intro/hello_world.py)
