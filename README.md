@@ -1,7 +1,9 @@
 # Udemy's Python Programming for Beginners Course
 Notes and project files from taking [this course](https://www.udemy.com/python-tutorial-for-beginners)
-- [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
-- [Python styling (PEP-8)](https://www.python.org/dev/peps/pep-0008/)
+
+[The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
+
+[Python styling (PEP-8)](https://www.python.org/dev/peps/pep-0008/)
 
 ## Introduction to PyCharm
 - [Hello world](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/tree/master/PyCharm_Intro/hello_world.py)
