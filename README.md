@@ -22,3 +22,6 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [While loop examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/while_loops.py)
 - [Menu using while loop](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/loop_menu.py)
 - [Break and Continue examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Loops/break_and_continue.py)
+
+## Introduction to Object Oriented Programming
+- [First class and object - Country class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Country.py)
