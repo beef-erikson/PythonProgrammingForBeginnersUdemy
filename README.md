@@ -29,3 +29,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [First class and objects - Country class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Country.py)
 - [MotorBike class and objects](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike.py)
 - [Book class and objects](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Book.py)
+- [MotorBike class with constructor](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike_constructor.py)
