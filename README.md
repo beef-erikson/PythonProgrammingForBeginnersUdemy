@@ -34,3 +34,6 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Final MotorBike class with methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/MotorBike_constructor.py)
 - [Final Book class with methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Book_methods.py)
 - [Planet class with self-calling methods](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Intro_OOP/Planet.py)
+
+## Data Structures
+- [Student class using list functions](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Data_Structures/Student.py)
