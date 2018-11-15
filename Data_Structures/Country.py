@@ -1,5 +1,6 @@
 """Example of using lists and classes.
 """
+from operator import attrgetter
 
 
 class Country:
@@ -29,3 +30,13 @@ print(countries[::-1])
 # Add country and print
 countries.append(Country('Russia', 80, 900))
 print(countries)
+
+# Sort countries by name and print
+countries.sort(key=attrgetter('name'))
+print(countries)
+
+# Find max population
+print(max(countries, key=attrgetter('population')))
+
+# Find minimum area
+print(min(countries, key=attrgetter('area')))
