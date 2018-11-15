@@ -5,17 +5,17 @@
 # Creates a class with a speed field
 class MotorBike:
     def __init__(self, speed: int):
-        """Initializations
+        """Initializations.
         """
         self.speed = speed
 
     def increase_speed(self, how_much: int):
-        """Increases the speed of the object
+        """Increases the speed of the object.
         """
         self.speed += how_much
 
     def decrease_speed(self, how_much: int):
-        """Decreases the speed of the object
+        """Decreases the speed of the object.
         """
         self.speed -= how_much
 
