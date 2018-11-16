@@ -37,3 +37,13 @@ print(is_even)
 
 # Output is Yes
 ```
+
+## Calling Tuple Values By Name
+```python
+beef = 'Beef', 37, 'Pennsylvania'
+name, age, state = beef
+print(f'{name} is {age} and resides in {state}.')
+
+# -- outputs:
+# > Beef is 37 and resides in Pennsylvania.
+```
