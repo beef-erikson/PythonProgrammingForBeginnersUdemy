@@ -40,3 +40,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Country class using list functions](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Data_Structures/Country.py)
 - [List comprehension examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Data_Structures/list_comprehension.py)
 - [Set examples](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Data_Structures/set.py)
+- [Using a dictionary to count characters from a string](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Data_Structures/character_count.py)
