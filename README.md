@@ -1,5 +1,5 @@
 # Udemy's Python Programming for Beginners Course
-Notes and project files from taking [this course](https://www.udemy.com/python-tutorial-for-beginners)
+Notes and project files from taking [this course](https://www.udemy.com/python-tutorial-for-beginners).
 
 [The Zen of Python](https://www.python.org/dev/peps/pep-0020/)
 
@@ -46,3 +46,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 
 ## Object Oriented Programming Again
 - [Fan class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/Fan.py)
+- [Object composition - Book and Reviews classes](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/book_reviews.py)
