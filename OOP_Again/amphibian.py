@@ -34,7 +34,9 @@ class Amphibian(WaterAnimal, LandAnimal):
 amphibian = Amphibian()
 print(amphibian.walking_speed)
 print(amphibian.swimming_speed)
+
 amphibian.increase_walking_speed(10)
 print(amphibian.walking_speed)
+
 amphibian.increase_swimming_speed(45)
 print(amphibian.swimming_speed)
