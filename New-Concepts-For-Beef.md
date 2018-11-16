@@ -47,3 +47,6 @@ print(f'{name} is {age} and resides in {state}.')
 # -- outputs:
 # > Beef is 37 and resides in Pennsylvania.
 ```
+
+## Using a Template Method Pattern
+[See here](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/recipe.py)
