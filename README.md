@@ -49,3 +49,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Object composition - Book and Reviews classes](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/book_reviews.py)
 - [Class inheritance](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/inheritance.py)
 - [Multiple inheritance](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/amphibian.py)
+- [Creating and using an abstract class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/animal.py)
