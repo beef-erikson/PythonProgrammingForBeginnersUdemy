@@ -50,3 +50,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Class inheritance](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/inheritance.py)
 - [Multiple inheritance](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/amphibian.py)
 - [Creating and using an abstract class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/animal.py)
+- [Template method pattern example using Recipe class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/recipe.py)
