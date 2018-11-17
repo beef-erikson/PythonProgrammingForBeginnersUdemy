@@ -51,3 +51,6 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Multiple inheritance](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/amphibian.py)
 - [Creating and using an abstract class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/animal.py)
 - [Template method pattern example using Recipe class](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/recipe.py)
+
+## Error Handling
+- [Exception handling basics](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Error_Handling/exception_handling_basics.py)
