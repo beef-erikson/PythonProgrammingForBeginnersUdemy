@@ -58,3 +58,5 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 
 ## Final Tips
 - [Using math and decimal modules](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/decimals.py)
+- [Using statistics module](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/statistics.py)
+- [Collections module example using deque](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/collections.py)
