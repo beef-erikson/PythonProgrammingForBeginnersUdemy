@@ -50,3 +50,12 @@ print(f'{name} is {age} and resides in {state}.')
 
 ## Using a Template Method Pattern
 [See here](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/OOP_Again/recipe.py)
+
+## List and Dictionary Unpacking as Method Arguments
+```python
+number_list = [1, 2, 3, 4, 5, 6]
+example_method(*number_list)
+some_dict = {'a': '1', 'b': '2', 'c': '3'}
+example_method(*number_list, **some_dict)
+```
+[See more here](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/methods_and_arguments.py)

@@ -61,3 +61,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Using statistics module](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/statistics.py)
 - [Collections module example using deque](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/collections.py)
 - [Basics of datetime module](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/datetime.py)
+- [More on methods and arguments](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/methods_and_arguments.py)
