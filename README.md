@@ -65,3 +65,7 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 - [Create custom module](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/custom_module.py)
 - [Use custom module](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/custom_module_import.py)
 - [Defining equality for classes](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Final_Tips/class_equality.py)
+
+![Certification](certification_udemy_1.jpg "Certification")
+
+[Certification Link](https://www.udemy.com/certificate/UC-EV5H0MNX/)
