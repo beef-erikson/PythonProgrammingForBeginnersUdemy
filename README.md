@@ -54,3 +54,4 @@ Notes and project files from taking [this course](https://www.udemy.com/python-t
 
 ## Error Handling
 - [Exception handling basics](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Error_Handling/exception_handling_basics.py)
+- [Raising custom exception](https://github.com/beef-erikson/PythonProgrammingForBeginnersUdemy/blob/master/Error_Handling/currency.py)
